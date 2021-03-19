@@ -1,0 +1,9 @@
+bs4
+gensim
+torch
+simpletransformers==0.32.3
+wordcloud
+transformers
+ipywidgets
+stringnltk
+nltk
