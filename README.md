@@ -10,6 +10,8 @@ RNN.ipynb est le fichier du model RNN
 le dossier GPT2 comprend 4 fichier .ipynb comprennant le model, l'entrainement et le test avec GPT2 
         
 01.Import_data.ipynb est un fichier permettant d'intégrer les fichiers nécessaires sous deepnote (plateforme similaire à google colab)     
+     
+requirements.txt est le fichier qui indique ce qu'il faut installer pour pouvoir tout utiliser dans le projet.    
 
 ## Installation
 Lors de la mise en place du projet, pensez à mettre les trois fichiers nécessaires (questions.csv, answers.csv, tags.csv) dans un dossier data. 
